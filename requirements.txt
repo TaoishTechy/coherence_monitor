@@ -1,0 +1,5 @@
+numpy>=1.24
+pyserial>=3.5
+# Optional sensors on the PC path:
+opencv-python>=4.8
+PyAudio>=0.2.14
